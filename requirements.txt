@@ -2,4 +2,3 @@ Flask
 transformers
 PyMuPDF
 python-docx
-gunicorn
